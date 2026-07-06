@@ -1,10 +1,11 @@
-# password-analyzer-tool
+# Password Analyzer
+
 A simple Python utility to analyze password strength, detect weaknesses, and provide recommendations.
 
 ## How to run
 
 1. Clone or download the project
-2. Open the terminal in the project folder
+2. Open terminal in the project folder
 3. Run:
 
    ```bash
@@ -14,7 +15,7 @@ A simple Python utility to analyze password strength, detect weaknesses, and pro
    python src/bruteforce_pwd_analyzer.py
    python src/breach_check.py
    
-## virtual environment
+## virtual enviornment
 
  python -m venv .venv                                                                                       
 .\.venv\Scripts\Activate.ps1
